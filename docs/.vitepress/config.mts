@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "My Awesome Project",
   description: "A VitePress Site",
-  base:'/docs/',
+  base:'/my-docs/',
   themeConfig: {
     search: {
       provider: 'local'
